@@ -35,6 +35,8 @@
 ![DDD](https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![TDD](https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white)&nbsp;
 ![PMBOK](https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
 -->
 
   <summary><b>:computer: &nbsp;Stack</b></summary>
@@ -56,10 +58,8 @@
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;\
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)&nbsp;
-![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;\
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
