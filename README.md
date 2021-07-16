@@ -39,7 +39,7 @@
 ![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
 -->
 
-  <summary><b>:computer: &nbsp;Stack</b></summary>
+  <summary><b>:computer: &nbsp;Estou atualmente estudando...</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
