@@ -1,7 +1,7 @@
 ### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;Atualmente trabalhando como Analista de Sistemas Jr. na [Telemática Sistemas Inteligentes](https://telematica.com.br/) com implantação de projetos de Notificação em Massa.\
-&nbsp;&nbsp;&nbsp;:closed_book: &nbsp; Desenvolvedor Full-Stack com ênfase em Java Web (Perfil Júnior).\
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;Atualmente trabalhando como Desenvolvedor de Sistemas na [Foursys](https://www.foursys.com.br/) participando da Vila de Transformação de Agências desenvolvendo a solução para o modelo de negócio Gerente Remoto.\
+&nbsp;&nbsp;&nbsp;:closed_book: &nbsp; Desenvolvedor Full-Stack com ênfase em Java Web.\
 &nbsp;&nbsp;&nbsp;:mortar_board: &nbsp;Estudante de Engenharia da Computação na [Universidade São Judas Tadeu](https://www.usjt.br) com previsão de término para 2023.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Sede de conhecimento, amor pela ciência e inovação.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
